@@ -1,0 +1,299 @@
+#para{ 
+            height: 40px;
+            width: 103%;
+            background-color: #EBF7FC;
+            text-align: center;
+
+}
+#para p {
+            padding-top: 10px;
+}
+#box{
+            height: 80px;
+            width: 103%;
+            cursor: pointer;
+            display: flex;
+            
+}
+
+
+#set{
+            height:70px;
+}
+#box>div{
+            display: flex;
+            gap: 30px;
+            margin-top: 10px;
+}
+#btn{
+            margin-left: 370px;
+}
+#btn>button{
+            height: 40px;
+            padding: 5px 10px;
+            border-radius: 7px;
+            margin-top: 10px;
+            background-color: white;
+            
+}
+#hov:hover{
+            background-color:#EBF7FC;
+            color: black;
+            cursor: pointer;
+}
+#hov2{
+            background-color: blue;
+            color: black;
+}
+#col:hover{
+            color: blue;
+            cursor: pointer;
+}
+#bigbox{
+            height: 800px;
+            width: 103%;
+            
+            background-color: #EBF7FC;
+}
+#two{
+           display: grid;
+           grid-template-columns: repeat(2,1fr);
+           grid-template-rows: 700px;
+           margin-top: 0px;
+
+}
+#two>div{
+            margin-top: 80px;
+}
+#la{
+            height: 100px;
+            width: 103%;
+
+            background-color: #F2F4F7;
+
+}
+#grip{
+            display: grid;
+            grid-template-columns: repeat(6,1fr);
+            grid-template-rows: 80px;
+            margin-top: 0px;
+            margin-left: 60px;
+            margin-right: 0px;
+            justify-content: space-evenly;
+            gap: 40px;
+}
+#gri>div{
+            
+            
+}
+#boxes{
+            height: 2400px;
+            width: 103%;
+            border: 1px solid #FAF2F4;
+            margin-top: 90px;
+            background-color: #FAF2F4;
+
+}
+#too{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            grid-template-rows: 530px;
+            width: 80%;
+            margin: auto;
+            margin-top: 80px;
+}
+#too>div{
+            /* border: 1px solid red; */
+}
+#pa{
+            font-size: 20px;
+            color: blue;
+            margin-top: 40px;
+}
+#pa:hover{
+            color: rgb(3, 3, 145);
+            cursor: pointer;
+}
+#bot{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            height: 530px;
+            width: 80%;
+            margin: auto;
+            margin-top: 160px;
+}
+#bot>div{
+            /* border: 1px solid black; */
+}
+#par{
+            font-size: 20px;
+            color: blue;
+            margin-top: 40px;
+            margin-left: 60px;  
+}
+#par:hover{
+            color: rgb(3, 3, 145);
+            cursor: pointer;
+}
+#tex{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            height: 160px;
+            width: 80%;
+            margin: auto;
+            margin-top: 160px;
+}
+#tex>div{
+            /* border: 1px solid black; */
+}
+#same{
+            height: 700px;
+            width: 103%;
+            /* border: 1px solid black; */
+
+}
+#bob{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            height: 700px;
+            /* margin-top: 60px; */
+            margin: auto;
+            width: 80%;
+
+}
+#bob>div{
+            /* border: 1px solid blue; */
+            margin-top: 60px;
+}
+#dis{
+            display: flex;
+            gap: 20px;
+}
+#la{
+            display: flex;
+            gap: 160px;
+}
+#boo{ 
+            height: 40px;
+            margin-top: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: white;      
+}
+#boo:hover{
+            background-color: rgb(231, 225, 225);
+}
+#dom{
+            height: 700px;
+            width: 103%;
+            /* border: 1px solid black; */
+            margin-top: 100px;
+}
+#dot{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            height: 700px;
+            width: 80%;
+            margin-top: 20px;
+            margin: auto;
+            
+
+}
+#dot>div{
+            /* border: 1px solid blue; */
+            margin-top: 40px;
+}
+#th{
+            display: flex;
+            gap: 20px;
+            font-size: 20px;
+            cursor: pointer;
+            
+}
+#tv{
+            display: flex;
+            justify-content: space-between;
+            font-size: 20px;
+            color: rgb(97, 96, 96);
+}
+#bos{
+            height:1050px;
+            width: 103%;
+            background-color:#FAF5E8 ;
+            margin-top: 50px;
+}
+#fle{
+            display: flex;
+            margin-top: 60px;
+            /* justify-content: space-evenly; */
+            gap: 450px;
+            margin-left: 15%;
+}
+#re{
+         margin-top: 250px;
+         font-size: 20px;
+         color: blue;
+         cursor: pointer;   
+}
+#bt{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            height: 600px;
+            width: 70%;
+            margin: auto;
+}
+#bt>div{
+            /* border: 1px solid black; */
+}
+#wh{
+            background-color: white;
+}
+#btt{
+            margin-left: 44%;
+            padding: 7px 14px 8px;
+            font-size: 22px;
+            background-color: blue;
+            color: white;
+            border: none;
+            border-radius: 7px;
+}
+#btt:hover{
+            background-color: rgb(27, 27, 112);
+            cursor: pointer;
+}
+#line{
+            height: 0px;
+            width: 80%;
+            margin: auto;
+            color: rgb(49, 40, 40);
+}
+#five{
+            display: grid;
+            grid-template-columns: repeat(5,1fr);
+            height: 370px;
+            width: 94%;
+            margin: auto;
+            margin-top: 160px;
+            
+}
+#five>div{
+            /* border: 1px solid black; */
+}
+#hei{
+            height: 70px;
+            width: 103%;
+            background-color: #EBF7FC;
+}
+#gri{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            height: 60px;
+            width: 100%;
+            margin: auto;
+}
+#gd{
+            display: flex;
+            gap: 40px;
+            margin-left: 40px;
+            margin-top: 10px;
+}
