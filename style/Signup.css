@@ -1,0 +1,108 @@
+#box{
+            height: 720px;
+            width: 640px;
+            /* border: 1px solid black; */
+            margin: auto;
+            margin-top: 60px;
+            border-radius: 7px;
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#im{
+          height: 10px;
+          width: 20%;
+          margin-left: 220px; 
+          margin-top: 10px; 
+          
+}
+#line{
+            height: 0px;
+            width: 100%;
+            border: 1px solid rgb(196, 192, 192);
+            margin-top: 70px;
+            /* background-color: rgb(243, 241, 241); */
+            
+}
+#in{
+            margin-left: 50px;
+            /* padding-right: 150px; */
+            /* padding-bottom: 15px; */
+            /* padding-top: 15px; */
+            height: 50px;
+            width: 80%;
+            /* text-align: center; */
+            justify-content: center;
+            background-color:rgb(243, 242, 242) ;
+            border: navajowhite;
+            font-size: 16px;
+            border-radius: 5px;
+}
+#bt{
+           height: 45px; 
+           width: 184px;
+           background-color: rgb(109, 109, 245);
+           color: white;
+           border: none;
+           font-size: 16px;
+           border-radius: 5px;
+           cursor: pointer;
+}
+#lin{
+            height: 0px;
+            width: 82%;
+            border: 1px solid rgb(209, 208, 208);
+            /* margin: auto; */
+            margin-top: 10px;
+            margin-left: 50px;
+            text-align: center;
+            color: rgb(177, 172, 172);
+}
+#btt{
+            margin-top: 20px;
+            margin-left: 50px;
+            height: 50px;
+            width: 82%;
+            background-color: white;
+            cursor: pointer;
+            border: 1px solid rgb(223, 219, 219);
+            border-radius: 5px;
+            font-size: 17px;
+            
+}
+#btt:hover{
+            background-color: rgb(236, 232, 232);
+            border: 2px solid black;
+}
+#pa{
+            text-align: center;
+            color: rgb(158, 157, 157);
+}
+#paa{
+            text-align: center;
+            margin-top: 50px;
+            color: rgb(143, 142, 142);
+}
+#bd{
+            height: 58px;
+            border-radius: 5px;
+            width: 640px;
+            border: 1px solid white;
+            margin-top: 40px;
+            background-color: blue;
+
+}
+#pt{
+            text-align: center;
+            color: white;
+            font-size: 18px;
+}
+#sig{
+         height: 50px;
+         width: 80%;
+         margin-left: 50px; 
+         background-color: rgb(21, 21, 252);  
+         color: white;
+         font-size: 16px;
+         cursor: pointer;
+         border: none;
+         border-radius: 5px;
+}
